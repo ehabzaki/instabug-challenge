@@ -5,6 +5,8 @@ gem 'pg', '~> 0.18.3'
 gem 'sidekiq', '~> 4.0.1'
 gem 'redis-rails', '~> 4.0.0'
 gem "nokogiri", ">= 1.10.8"
+gem "sprockets", ">= 3.7.2"
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.6'
 
